@@ -1,0 +1,23 @@
+{
+  "name": "tulipays_website",
+  "version": "1.0.0",
+  "description": "Sitio web para la publicidad y difusión de un negocio de repostería el cual contendra bases de datos en MySQL, utilizando SASS para las hojas de estilo",
+  "main": "index.js",
+  "scripts": {
+    "compilesass":"node-sass sass/style.scss css/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexisnoy22/tulipaysWebSite.git"
+  },
+  "author": "Alexis E. Noyola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexisnoy22/tulipaysWebSite/issues"
+  },
+  "homepage": "https://github.com/alexisnoy22/tulipaysWebSite#readme",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
