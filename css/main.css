@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Pinyon-script;
+    src: url(../fonts/PinyonScript-Regular.ttf);
+}
+.nav-img{
+    width : 60%;
+}
+.nav-style{
+    margin-left:20%;
+}
+.navbar-style{
+    background-color: rgba(248,249,250,0.5) !important;
+    font-family: 'Helvetica';
+    font-size: 2em; 
+    color:black !important;
+}
+.nav-link-style{
+    margin-right:10% !important;
+}
